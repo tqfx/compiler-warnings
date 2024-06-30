@@ -47,5 +47,12 @@ wget -c -nv https://gcc.gnu.org/onlinedocs/gcc-10.4.0/gcc/Warning-Options.html -
 wget -c -nv https://gcc.gnu.org/onlinedocs/gcc-11.1.0/gcc/Warning-Options.html -O 11.1.0.html
 wget -c -nv https://gcc.gnu.org/onlinedocs/gcc-11.2.0/gcc/Warning-Options.html -O 11.2.0.html
 wget -c -nv https://gcc.gnu.org/onlinedocs/gcc-11.3.0/gcc/Warning-Options.html -O 11.3.0.html
+wget -c -nv https://gcc.gnu.org/onlinedocs/gcc-11.4.0/gcc/Warning-Options.html -O 11.4.0.html
 wget -c -nv https://gcc.gnu.org/onlinedocs/gcc-12.1.0/gcc/Warning-Options.html -O 12.1.0.html
 wget -c -nv https://gcc.gnu.org/onlinedocs/gcc-12.2.0/gcc/Warning-Options.html -O 12.2.0.html
+wget -c -nv https://gcc.gnu.org/onlinedocs/gcc-12.3.0/gcc/Warning-Options.html -O 12.3.0.html
+wget -c -nv https://gcc.gnu.org/onlinedocs/gcc-12.4.0/gcc/Warning-Options.html -O 12.4.0.html
+wget -c -nv https://gcc.gnu.org/onlinedocs/gcc-13.1.0/gcc/Warning-Options.html -O 13.1.0.html
+wget -c -nv https://gcc.gnu.org/onlinedocs/gcc-13.2.0/gcc/Warning-Options.html -O 13.2.0.html
+wget -c -nv https://gcc.gnu.org/onlinedocs/gcc-13.3.0/gcc/Warning-Options.html -O 13.3.0.html
+wget -c -nv https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Warning-Options.html -O 14.1.0.html
